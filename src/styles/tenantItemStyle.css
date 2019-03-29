@@ -1,0 +1,17 @@
+.tenant-item {
+    background: #FFF;
+    transition: 0.1s all ease-in;
+}
+
+.tenant-item:hover {
+    background: #E2F2F2;
+}
+
+.avatar {
+    background: #E2F2F2;
+    transition: 0.1s all ease-in;
+}
+
+.tenant-item:hover > .avatar {
+    background: #FFF;
+}
