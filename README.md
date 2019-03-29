@@ -1,5 +1,5 @@
 # Lease Browser
-Simple intuitive UI for browsing list of items and retrieving details of each item.
+Simple and intuitive UI for browsing list of items and retrieving details of each item.
 
 ![](https://github.com/DumindaWijesinghe/lease_browser/blob/master/src/images/screen1.png)
 
