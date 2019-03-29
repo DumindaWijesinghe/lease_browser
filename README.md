@@ -1,4 +1,4 @@
-# LeaseBrowser
+# Lease Browser
 Simple intuitive UI for browsing list of items and retrieving details of each item.
 
 ![Screen](./images/loading.png)
